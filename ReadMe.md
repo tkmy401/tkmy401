@@ -18,11 +18,16 @@
 ---
 
 ### 🦏 About me
-- 🔭 Building things that are rugged and reliable — like a rhino chassis for products.
-- 💡 Interests: smart contracts, Next.js, AI, DX tooling, Git automations.
-- 🧰 Tech: TypeScript, Next.js, Node.js, Prisma/Drizzle, Postgres, Solidity, Rust, Python.
-- 💬 Ask me about projects and how to build them.
-- 📫 Reach me: **@tkmy401** on GitHub.
+- 🔭 Building things that are rugged and reliable — like a rhino chassis for products.  
+- 💡 Interests: smart contracts, Next.js, AI, DX tooling, Git automations.  
+- 🧰 Tech stack:
+  - **Web / App Development**: TypeScript, Next.js, Node.js, **.NET, ASP.NET, C#**
+  - **Systems / Performance**: C, C++, Rust  
+  - **Smart Contracts / Blockchain**: Solidity, Rust  
+  - **Data / Scripting / AI**: Python  
+  - **Databases / ORMs**: Prisma, Drizzle, Postgres  
+- 💬 Ask me about projects and how to build them.  
+- 📫 Reach me: **@tkmy401** on GitHub.  
 
 ---
 
