@@ -37,7 +37,7 @@
 <!-- Overall stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="165" alt="tkmy401's GitHub Stats"
-       src="https://github-readme-stats.vercel.app/api?username=tkmy401&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" />
+       src="https://github-readme-stats.vercel.app/api?username=tkmy401&show_icons=true&hide_border=true&theme=tokyonight" />
 </a>
 
 <!-- Top languages -->
